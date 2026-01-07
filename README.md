@@ -80,23 +80,25 @@ df = DataFrame("data.csv")
 df.fill_na(0)
 df.describe()
 df.to_csv("output.csv")
+```
 
 
-Requirements
+## Requirements
 
 Python 3.x
 (No external dependencies)
 
-Purpose of the Project
+---
+## Purpose of the Project
 
 This project was developed for educational purposes to:
 
-Understand how pandas works internally
+- Understand how pandas works internally
 
-Practice object-oriented programming in Python
+- Practice object-oriented programming in Python
 
-Build a custom data manipulation library from scratch
+- Build a custom data manipulation library from scratch
 
-Author
+# Author
 
-Mohamed Shaaban
+## Mohamed Shaaban
