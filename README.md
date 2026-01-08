@@ -18,12 +18,13 @@ The project focuses on data handling, basic statistics, and CSV file operations 
 
 ## Project Structure
 
+```
 MiniPandas/
 ├── main.py
 ├── dataframe.py
 ├── stats.py
 └── file_handler.py
----
+```
 
 ## Modules Overview
 
@@ -99,6 +100,6 @@ This project was developed for educational purposes to:
 
 - Build a custom data manipulation library from scratch
 
-# Author
+## Author
 
-## Mohamed Shaaban
+### Mohamed Shaaban
